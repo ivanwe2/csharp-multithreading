@@ -1,0 +1,14 @@
+D:\source\Course-C#-Multithreading\WebServerAssignment\WebServerAssignment\bin\Debug\net9.0\WebServerAssignment.exe
+D:\source\Course-C#-Multithreading\WebServerAssignment\WebServerAssignment\bin\Debug\net9.0\WebServerAssignment.deps.json
+D:\source\Course-C#-Multithreading\WebServerAssignment\WebServerAssignment\bin\Debug\net9.0\WebServerAssignment.runtimeconfig.json
+D:\source\Course-C#-Multithreading\WebServerAssignment\WebServerAssignment\bin\Debug\net9.0\WebServerAssignment.dll
+D:\source\Course-C#-Multithreading\WebServerAssignment\WebServerAssignment\bin\Debug\net9.0\WebServerAssignment.pdb
+D:\source\Course-C#-Multithreading\WebServerAssignment\WebServerAssignment\obj\Debug\net9.0\WebServerAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\Course-C#-Multithreading\WebServerAssignment\WebServerAssignment\obj\Debug\net9.0\WebServerAssignment.AssemblyInfoInputs.cache
+D:\source\Course-C#-Multithreading\WebServerAssignment\WebServerAssignment\obj\Debug\net9.0\WebServerAssignment.AssemblyInfo.cs
+D:\source\Course-C#-Multithreading\WebServerAssignment\WebServerAssignment\obj\Debug\net9.0\WebServerAssignment.csproj.CoreCompileInputs.cache
+D:\source\Course-C#-Multithreading\WebServerAssignment\WebServerAssignment\obj\Debug\net9.0\WebServerAssignment.dll
+D:\source\Course-C#-Multithreading\WebServerAssignment\WebServerAssignment\obj\Debug\net9.0\refint\WebServerAssignment.dll
+D:\source\Course-C#-Multithreading\WebServerAssignment\WebServerAssignment\obj\Debug\net9.0\WebServerAssignment.pdb
+D:\source\Course-C#-Multithreading\WebServerAssignment\WebServerAssignment\obj\Debug\net9.0\WebServerAssignment.genruntimeconfig.cache
+D:\source\Course-C#-Multithreading\WebServerAssignment\WebServerAssignment\obj\Debug\net9.0\ref\WebServerAssignment.dll
